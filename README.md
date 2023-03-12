@@ -28,6 +28,6 @@
   
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franbrave&show_icons=true&locale=en&layout=compact" alt="franbrave" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franbrave&show_icons=true&locale=en" alt="franbrave" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franbrave&show_icons=true&locale=en&theme=github_dark" alt="franbrave" /></p>
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franbrave" alt="franbrave" /></a> </p>
