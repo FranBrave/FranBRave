@@ -9,9 +9,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franbrave" alt="franbrave" /></a> </p>
 
-- 🔭 I’m currently working on [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
-
 - 🤝 I’m looking for **my first job as web developer** 
+
+- 🔭 I’m currently working on [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
 
 - 🌱 I’m currently learning **Ionic and Ruby on Rails**
 
