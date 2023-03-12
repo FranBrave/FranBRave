@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects will be available at [www.franvaliente.com](www.franvaliente.com)
 
-- 💬 Ask me about **all you need about me**
-
 - 📫 How to reach me **valiente.fco@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
