@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
 
-- 🌱 I’m currently learning **Ionic and Ruby on Rails**
+- 🤝 I’m looking for **my first job as web developer** 
 
-- 🤝 I’m looking for help with **my first job in development field**
+- 🌱 I’m currently learning **Ionic and Ruby on Rails**
 
 - 👨‍💻 All of my projects will be available at [www.franvaliente.com](www.franvaliente.com)
 
