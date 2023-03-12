@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fran :smiley:</h1>
 <h3 align="center">A passionate junior full stack developer from Spain</h3>
 
-<div> align="center">
+<div align="center">
  <img src="https://i.imgur.com/9ksTICA.gif" style="width:100%;height:auto;">
 </div>
 
