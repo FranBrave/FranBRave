@@ -7,8 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franbrave&label=Profile%20views&color=0e75b6&style=flat" alt="franbrave" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franbrave" alt="franbrave" /></a> </p>
-
 - 🤝 I’m looking for **my first job as web developer** 
 
 - 🔭 I’m currently working on [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
@@ -110,3 +108,5 @@ height="40"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="nor
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franbrave&show_icons=true&locale=en" alt="franbrave" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franbrave&" alt="franbrave" /></p>
+ 
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franbrave" alt="franbrave" /></a> </p>
