@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franbrave&label=Profile%20views&color=0e75b6&style=flat" alt="franbrave" /> </p>
 
-- 🤝 I’m looking for **my first job as web developer** 
+- 🤝 I’m looking for **my first oportunity as web developer** 
 
 - 🔭 I’m currently working on [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
 
