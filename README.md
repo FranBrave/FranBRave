@@ -25,9 +25,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
-
-    <a
+<p align="center"> <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
