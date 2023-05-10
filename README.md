@@ -7,11 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franbrave&label=Profile%20views&color=0e75b6&style=flat" alt="franbrave" /> </p>
 
-- 🤝 I’m looking for **my first oportunity as web developer** 
+- 🤝 I’m working at **Parker Solutions** 
 
-- 🔭 I’m currently working on [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
+- 🔭 I’m currently developing a [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
 
-- 🌱 I’m currently learning **Ionic and Ruby on Rails**
+- 🌱 I’m currently learning **Ionic and RXJS**
 
 - 👨‍💻 All of my projects will be available at [www.franvaliente.com](www.franvaliente.com)
 
