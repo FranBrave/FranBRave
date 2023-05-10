@@ -9,7 +9,7 @@
 
 - 🤝 I’m working at **Parker Solutions** 
 
-- 🔭 I’m currently developing a [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
+- 🔭 I’m currently developing [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
 
 - 🌱 I’m currently learning **Ionic and RXJS**
 
