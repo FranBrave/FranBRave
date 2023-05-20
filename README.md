@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Ionic and RXJS**
 
-- 👨‍💻 All of my projects will be available at [www.franvaliente.com](www.franvaliente.com)
+- 👨‍💻 Some of my projects are available to see at my portfolio [www.franvaliente.com](www.franvaliente.com)
 
 - 📫 How to reach me **valiente.fco@gmail.com**
 
