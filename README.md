@@ -7,11 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franbrave&label=Profile%20views&color=0e75b6&style=flat" alt="franbrave" /> </p>
 
-- 🤝 I’m working at **Parker Solutions** 
+- 🤝 I’m working at **Globalcaja Fundation** as **Angular Developer** 
 
 - 🔭 I’m currently developing [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
 
-- 🌱 I’m currently learning **Ionic and RXJS**
+- 🌱 I’m currently learning **Angular 16+**
 
 - 👨‍💻 Some of my projects are available to see at my portfolio [www.franvaliente.com](www.franvaliente.com)
 
