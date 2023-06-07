@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently developing [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
 
-- 🌱 I’m currently learning **Angular 16+**
+- 🌱 I’m currently learning **Angular 16+** and **React Native**
 
 - 👨‍💻 Some of my projects are available to see at my portfolio [www.franvaliente.com](www.franvaliente.com)
 
