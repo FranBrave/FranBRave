@@ -9,7 +9,7 @@
 
 - 🤝 I’m working at **Globalcaja Fundation** as **Angular Developer** 
 
-- 🔭 I’m currently developing [a food delivery app developed with Angular and NodeJS](https://github.com/FranBrave/ANGULAR-NODEJS-DeliFood)
+- 🔭 I’m currently developing [a Social Network App developed with Angular and NodeJS]
 
 - 🌱 I’m currently learning **Angular 16+** and **React Native**
 
