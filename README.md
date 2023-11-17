@@ -7,11 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=franbrave&label=Profile%20views&color=0e75b6&style=flat" alt="franbrave" /> </p>
 
-- 🤝 I’m working at **Globalcaja Fundation** as **Angular Developer** 
+- 🤝 I’m working in **Avanade** as **Angular Developer** 
 
 - 🔭 I’m currently developing **a Social Network App developed with Angular and NodeJS**
 
-- 🌱 I’m currently learning **Angular 16+** and **React Native**
+- 🌱 I’m currently learning **Angular 16+** and **.NET**
 
 - 👨‍💻 Some of my projects are available to see at my portfolio [www.franvaliente.com](www.franvaliente.com)
 
